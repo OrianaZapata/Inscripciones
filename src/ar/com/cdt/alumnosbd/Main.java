@@ -13,7 +13,7 @@ public class Main {
 		a.inscripcion(al);
 		
 		System.out.println(a.listaDeAlumnos());
-		System.out.println(al);
+	
 		}
 
 }
